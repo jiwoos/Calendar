@@ -1,3 +1,4 @@
 # Calendar Web 
 
-Using Vue.js, MySQL, HTML, PHP, CSS on AWS EC2
+HTML | JavaScript | AJAX | MySQL | AWS EC2
+
